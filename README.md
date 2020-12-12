@@ -31,6 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Voorlinden](https://fabiobruna.nl/2020/10/26/voorlinden/)
+- [Van IFTTT naar Microsoft Flows (tijdelijk..)](https://fabiobruna.nl/2020/10/20/van-ifttt-naar-microsoft-flow-tijdelijk/)
+- [Leeslog #2](https://fabiobruna.nl/2020/09/30/leeslog-2/)
+- [Kaapse Bos](https://fabiobruna.nl/2020/09/22/kaapse-bos/)
+- [Leeslog #1](https://fabiobruna.nl/2020/08/29/leeslog-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fabiobruna.nl)
