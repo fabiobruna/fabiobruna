@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [(bijna) iedere dag een liedje](https://fabiobruna.nl/2021/02/15/bijna-iedere-dag-een-liedje/)
 - [Sneeuw!](https://fabiobruna.nl/2021/02/07/sneeuw/)
 - [Strandwandeling](https://fabiobruna.nl/2021/01/25/strandwandeling/)
 - [Flickr](https://fabiobruna.nl/2021/01/21/flickr/)
 - [2020](https://fabiobruna.nl/2020/12/28/2020/)
-- [Waar wandel je rustig op tweede kerstdag?](https://fabiobruna.nl/2020/12/27/waar-wandel-je-rustig-op-tweede-kerstdag/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fabiobruna.nl)
