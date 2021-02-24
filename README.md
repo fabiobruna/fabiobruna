@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leeslog #4](https://fabiobruna.nl/2021/02/24/leeslog/)
 - [(bijna) iedere dag een liedje](https://fabiobruna.nl/2021/02/15/bijna-iedere-dag-een-liedje/)
 - [Sneeuw!](https://fabiobruna.nl/2021/02/07/sneeuw/)
 - [Strandwandeling](https://fabiobruna.nl/2021/01/25/strandwandeling/)
 - [Flickr](https://fabiobruna.nl/2021/01/21/flickr/)
-- [2020](https://fabiobruna.nl/2020/12/28/2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fabiobruna.nl)
