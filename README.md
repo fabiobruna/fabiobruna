@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brutalisme in Delft](https://fabiobruna.nl/2021/04/10/brutalisme-in-delft/)
 - [Wandeling Rijswijk](https://fabiobruna.nl/2021/03/21/wandeling-rijswijk/)
 - [Werkplaats Theo Jansen](https://fabiobruna.nl/2021/03/08/werkplaats-theo-jansen/)
 - [Mist](https://fabiobruna.nl/2021/03/03/mist/)
 - [Leeslog #4](https://fabiobruna.nl/2021/02/24/leeslog/)
-- [(bijna) iedere dag een liedje](https://fabiobruna.nl/2021/02/15/bijna-iedere-dag-een-liedje/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fabiobruna.nl)
