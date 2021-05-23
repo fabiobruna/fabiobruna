@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planten herkennen met Obsidentify](https://fabiobruna.nl/2021/05/23/planten-herkennen-met-obsidentify/)
 - [Stadhuis Terneuzen](https://fabiobruna.nl/2021/05/09/stadhuis-terneuzen/)
 - [Zeeuws-Vlaanderen](https://fabiobruna.nl/2021/05/07/zeeuws-vlaanderen/)
 - [Wandeling Maasvlakte](https://fabiobruna.nl/2021/05/02/wandeling-maasvlakte/)
 - [Flickr Explore](https://fabiobruna.nl/2021/04/26/flickr-explore/)
-- [Brutalisme in Delft](https://fabiobruna.nl/2021/04/10/brutalisme-in-delft/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fabiobruna.nl)
