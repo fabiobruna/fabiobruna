@@ -4,7 +4,7 @@
 
 [<img align="left" alt="Fabio Bruna | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Fabio Bruna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Fabio Bruna | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Fabio Bruna | Flickr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][flickr]
 [<img align="left" alt="Fabio Bruna | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
@@ -27,6 +27,6 @@
 
 [website]: https://fabiobruna.nl
 [twitter]: https://twitter.com/fabiobruna
-[instagram]: https://instagram.com/fa.biobruna
+[flickr]: https://www.flickr.com/photos/_fabio/
 [linkedin]: https://linkedin.com/in/fabiobruna
 [spotify]: https://open.spotify.com/user/fabiobruna
