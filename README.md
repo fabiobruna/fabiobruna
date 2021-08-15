@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BOOX Nova 3, mijn nieuwe e-reader](https://fabiobruna.nl/2021/08/15/boox-nova-3-mijn-nieuwe-e-reader/)
 - [The Lost Worlds of 2001 - Arthur C. Clarke](https://fabiobruna.nl/2021/07/28/the-lost-worlds-of-2001/)
 - [Zuiderpark](https://fabiobruna.nl/2021/07/11/zuiderpark/)
 - [Leeslog #5](https://fabiobruna.nl/2021/06/12/leeslog-5/)
 - [Mei in beeld](https://fabiobruna.nl/2021/06/02/april-in-beeld/)
-- [Planten herkennen met Obsidentify](https://fabiobruna.nl/2021/05/23/planten-herkennen-met-obsidentify/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fabiobruna.nl)
