@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Obsidian Weeklog template](https://fabiobruna.nl/2021/11/27/obsidian-weeklog/)
 - [Haagse Beelden - Segbroek 1](https://fabiobruna.nl/2021/11/13/haagse-beelden-segbroek-1/)
 - [Leeslog #6](https://fabiobruna.nl/2021/08/18/leeslog-6/)
 - [BOOX Nova 3, mijn nieuwe e-reader](https://fabiobruna.nl/2021/08/15/boox-nova-3-mijn-nieuwe-e-reader/)
 - [The Lost Worlds of 2001 - Arthur C. Clarke](https://fabiobruna.nl/2021/07/28/the-lost-worlds-of-2001/)
-- [Zuiderpark](https://fabiobruna.nl/2021/07/11/zuiderpark/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fabiobruna.nl)
